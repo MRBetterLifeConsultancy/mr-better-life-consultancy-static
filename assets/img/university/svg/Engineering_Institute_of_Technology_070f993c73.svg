@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70" height="70" viewBox="0 0 70 70">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 64 64">
+      <image width="64" height="64" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAABBVBMVEUAOnoAOnoAOnoBO3sDPX4BO3wEP4Aubrg4ecYzc78LRokFQIEvb7o6e8g1dcELR4kvb7ktbbcMSIsEPn82d8MNSYwPS44dWqEaWJ4CPH0nZq85escpaLEtbLcCPHwpZ7E2dsMOSo0rarQ3eMQQTJABPHwQTI8oZq8lY6wkY6srarMTT5M4ecUoZ7AsbLYST5MjYakUUZUhYKcubbc5ecYVUpcAOnsmZa0iYKgDPn8mZa4VUZYDPX0EP38PSo4CPX0qabIOSYwqabMmZK0sa7UsbLUjYqoOSY0ZVpwWU5gGQII0dcAHQYMxcb0zdL8JRIYxcbwHQoMJRIcHQoQycr0IQ4X///+EcQojAAAAAnRSTlPx40I3rgYAAAABYktHRFYKDemJAAAAB3RJTUUH5gMRCgImTmB6vAAAAc1JREFUWMPt1tlSwjAUBmBMW2SxKuIWihQRFAXcAXEDxV1QFH3/V5GoQ0+zNRn0rueyk/+b5DRNGkGTVSQSAiHwT4Bh0mXpAdHpGFXxhN4SkjM2VbNzej1IzisLgiZy5pDQAlAyxQgLWgBKM8LikhRYXvFqFasLYwBnHG9o9ltYUxG8JeSg4PKF/LqsBzl2DgVa2CjKmljKgKHZ3OiJyQqbsrdgbXkjnYKpJPhfo1V2goWiBEDGNujDj7DDCBXZRuIIrkMJ1YoE4Ai4ZksEdisbZTB0N03er8sIexIAGftgaEogHEgAhA7BKo6iRKjRfTiuy4AGFFJEwE1aiNUlAGqcQKFFdsgpvYrYmQRQ2Q6/jeQClkq+Il6ClaE39Ll4Q3MA3yflBn2ULFACeTswzwL+Y4Xk2cMRftI0gJmD7WKNzucvkRBodxSO1iskBHAH9K/Jnz91NPsAfA3yXWP0JBp4OUCgDfJ2k+Q5VyR9NQDA7CjkmSvWA1o3YGCX/JMoXfJjoHULBt5ZSPU3YwzcP3j1SOb/xOSfeb8Iwuu916fzL69IA+gN1PIi4E01LwDYfPwdaQBDJv/xiTSAYb9K1WCIdACtCoEQ+CNgwpr6AqBncjn+t7NvAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIyLTAzLTE3VDEwOjAyOjM2KzAwOjAwj2AZfwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMi0wMy0xN1QxMDowMjozNiswMDowMP49ocMAAAAASUVORK5CYII="/>
+    </pattern>
+  </defs>
+  <g id="Engineering_Institute_of_Technology" data-name="Engineering Institute of Technology" stroke="#fff" stroke-width="0.5" fill="url(#pattern)">
+    <rect width="70" height="70" stroke="none"/>
+    <rect x="0.25" y="0.25" width="69.5" height="69.5" fill="none"/>
+  </g>
+</svg>

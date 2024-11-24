@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70" height="70" viewBox="0 0 70 70">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 32 32">
+      <image width="32" height="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAkUExURc4SGswFDM8VHv/+/thCSNMnLuJzeNxZXuiRlPPJy/ng4e6tr3AfMYEAAABuSURBVCjPY2AYmkAJlafAKMgE5zEpKQgKhpS7IkkKuXW0QfhKSoxAyexZM0oFBUB8oFLWsl3Gq1MFBZgUQAJC7t2LjS1TgAaCuQwis4yNLVsUYVwGBjFjq+2BgkwIF4hPcxAUQHEQGhfkhiEazgBeGRH+x6AxHgAAAFd6VFh0UmF3IHByb2ZpbGUgdHlwZSBpcHRjAAB4nOPyDAhxVigoyk/LzEnlUgADIwsuYwsTIxNLkxQDEyBEgDTDZAMjs1Qgy9jUyMTMxBzEB8uASKBKLgDqFxF08kI1lQAAAABJRU5ErkJggg=="/>
+    </pattern>
+  </defs>
+  <rect id="Emirates_Aviation_University_Dubai" data-name="Emirates Aviation University, Dubai" width="70" height="70" fill="url(#pattern)"/>
+</svg>
