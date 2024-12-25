@@ -10,7 +10,8 @@ function searchUniversities(ev, e = null)
 
 function getPage(ev, e)
 {
-    page_no = $(e).data('page_no') + 1;
+    page_no = $(e).data('page_no');
+    page_no += 1;
     searchUniversities(ev);
 }
 
