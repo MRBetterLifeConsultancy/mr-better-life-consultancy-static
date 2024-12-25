@@ -373,3 +373,63 @@ function calculateHoursDifference(startTime, endTime, round_to = 2)
     return diffHours.toFixed(round_to);
   }
   
+  (function($) {
+
+	"use strict";
+
+	var fullHeight = function() {
+
+		$('.js-fullheight').css('height', $(window).height());
+		$(window).resize(function(){
+			$('.js-fullheight').css('height', $(window).height());
+		});
+
+	};
+	fullHeight();
+
+	var carousel = function() {
+		$('.featured-carousel').owlCarousel({
+	    loop: false,
+	    autoplay: true,
+	    margin:30,
+	    animateOut: 'fadeOut',
+	    animateIn: 'fadeIn',
+	    nav:false,
+	    dots: true,
+	    autoplayHoverPause: false,
+	    items: 1,
+	    navText : ["<span class='ion-ios-arrow-back'></span>","<span class='ion-ios-arrow-forward'></span>"],
+	    responsive:{
+	      0:{
+	        items:1
+	      },
+	      600:{
+	        items:2
+	      },
+	      1000:{
+	        items:3
+	      }
+	    }
+		});
+
+	};
+	carousel();
+
+})(jQuery);
+
+$(document).ready(function ()
+{
+    if (window.innerWidth < 1199)
+    {
+        $('#hero-bg').attr('src', "assets/img/hero-bg-f4-mobile.png");
+        $('.hide-in-mobile').addClass("d-none");
+        $('.show-in-mobile').removeClass("d-none");
+    }
+    else
+    {
+        $('.hide-in-mobile').removeClass("d-none");
+        $('.show-in-mobile').addClass("d-none");
+    }
+});
+
+
